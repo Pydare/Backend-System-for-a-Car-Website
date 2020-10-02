@@ -1,6 +1,6 @@
 # Vehicles API Project
 
-Project repository for JavaND Project 2, where students implement a Vehicles API using Java and Spring Boot that can communicate with separate location and pricing services.
+Project repository for JavaND Project 2, where students implement a Vehicles API using Java and Spring Boot that can communicate with separate location and pricing services. In this project, a REST-based Vehicles API communicates with a location and pricing service using Spring Boot, along with converting the existing Pricing Service API to a microservice registered on a Eureka server.
 
 ## Instructions
 
